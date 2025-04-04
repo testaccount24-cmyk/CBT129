@@ -1,0 +1,6 @@
+2025-04-04 04:48:23.101912 - Received CBT.V508.FILE129.PDS from FILE129.XMI 
+2025-04-04 04:48:23.102577 - Found $$$DOC.eml (message/rfc822) in CBT.V508.FILE129.PDS, moved to PDS/$$$DOC
+2025-04-04 04:48:23.102717 - Found $$$DOC1.eml (message/rfc822) in CBT.V508.FILE129.PDS, moved to PDS/$$$DOC1
+2025-04-04 04:48:23.102848 - Found @FILE129.txt (text/plain) in CBT.V508.FILE129.PDS, moved to PDS/@FILE129
+2025-04-04 04:48:23.102966 - Found OLDZAP.txt (text/plain) in CBT.V508.FILE129.PDS, moved to PDS/OLDZAP
+2025-04-04 04:48:23.103077 - Found SHRDASD.txt (text/plain) in CBT.V508.FILE129.PDS, moved to PDS/SHRDASD
